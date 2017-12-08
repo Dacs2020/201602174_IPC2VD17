@@ -1,0 +1,6 @@
+Modelo Iterativo Incremental:
+Éste tipo de modelo se caracteriza por descomponer un sistema en sistemas o en piezas mas pequeñas las cuales se se tratan como un sistema
+por separado y se trabajan como tal, ejecutando un ciclo para la primera pieza, luego se toma la primera y la segunda pieza y se hace un
+ciclo con esas dos piezas, luego con la pieza 1,2 y 3 y se repite dicho proceso hasta tener el sistema completo. Cabe mencionar que el 
+primer "incremento" es un rpoducto que incorpora las fuciones prioritarias completamente funcionales y que cada incremento integra una 
+funcion nueva al sistema.
