@@ -1,0 +1,6 @@
+Modelo en Cascada:
+Es también llamado coclo de vida cl´sico o tradicional y es muy carácterístico porque es imposible de perderse debido a que es 
+secuencial y es necesario terminar un paso antes de avnzar al siguiente y así sucesivamente. Sin embargo cuenta con una gran desventaja
+y es que una vez se haya avanzado de fase es imposible modificarla. Ésto implica que si se desea hacer un cambio en algun punto del 
+sistema se debe concluir y luego volver a empezar con dicho cambio. Usualmente se recomienda utilizar éste modelo con proyectos que sean 
+de gran tamaño.
