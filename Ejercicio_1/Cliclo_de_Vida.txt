@@ -1,0 +1,22 @@
+El Ciclo de Vida del Software:
+
+1) Analisis de Requerimientos:
+El análisis de requerimientos es la parte del ciclo en donde se evalua la propuesta y se hace un listado de las funciones que
+se necesitan, ademas la arquitectura del sistema. Todo ésto se hace con e fin de evaluar las capacidades del equipo de desarrollo y 
+el equipo (hardware) que es necesario para realizar el sistema y cumplir con las espectativas del usuario.
+
+2) Diseño:
+En ésta parte se hace el disello que tendra el sistema en general, hablamos tanto de aspecto físico como el lógico, además tambien 
+se hacen los distintos diagramas que daran forma al sistema.
+
+3) Desarrollo:
+Tambien se puede considerar como la parte de "programación" en donde se utiliza el lenguaje que mas convenga para la cristalización 
+de lo que quizo hacer en el diseño.
+
+4) Testeo:
+En ésta parte se hace la prueba de las diversas funciones que se requirieron en el sistema, debido a que ésta fase es muy importante
+a que se debe reducir los errores lo mas posible para presentar un producto final que cumpla por lo solicitado por el usuario.
+
+5) Mantenimiento:
+El mantenimiento es la parte en la que ya se implemento el sistema deseado por el usuario, sin embargo con el tiempo éste se desgasta,
+ya sea tratándose de hardware o software.
